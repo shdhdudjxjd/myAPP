@@ -1,0 +1,8 @@
+pandas==2.3.0
+plotly==6.1.2
+requests==2.32.4
+streamlit==1.46.0
+streamlit-antd-components==0.3.2
+streamlit-card==1.0.2
+streamlit-extras==0.7.5
+streamlit-aggrid==1.1.6
